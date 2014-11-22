@@ -1,0 +1,9 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+It allowed me to see, line by line, the changes between the two documents.
+This prevented my from having to flip between two documents or from having to view
+them side by side and having to line up the code to compare them. Personally, I
+like BeyondCompare much better for comparing files, but I don't think that will
+work with commit versions on Git.
+
