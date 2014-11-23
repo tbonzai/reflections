@@ -24,3 +24,7 @@ How can you use the commands git log and git diff to view the history of files?
 
 Using git log, you can see the changes in chronological order and if needed, compare adjacent or non-adjacent commits using git diff.
 
+How might using version control make you more confident to make changes that could break something?
+
+Because I know I can always roll back the change to restore functionality.
+
