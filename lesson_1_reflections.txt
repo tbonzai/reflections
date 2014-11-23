@@ -17,7 +17,8 @@ You may forget to commit on a regular basis and once you realize you have a prob
 
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
-Because Git was created to deal with code development where there is typically an interdependant relationship between files whereas Google Docs was created to deal with papers and presentaions which typically do not have an interdependant relationship.
+Because Git was created to deal with code development where there is typically an interdependant relationship between files
+whereas Google Docs was created to deal with papers and presentaions which typically do not have an interdependant relationship.
 
 How can you use the commands git log and git diff to view the history of files?
 
