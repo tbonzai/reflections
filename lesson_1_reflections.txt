@@ -19,3 +19,7 @@ Why do you think some version control systems, like Git, allow saving multiple f
 
 Because Git was created to deal with code development where there is typically an interdependant relationship between files whereas Google Docs was created to deal with papers and presentaions which typically do not have an interdependant relationship.
 
+How can you use the commands git log and git diff to view the history of files?
+
+Using git log, you can see the changes in chronological order and if needed, compare adjacent or non-adjacent commits using git diff.
+
