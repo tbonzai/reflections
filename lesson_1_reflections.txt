@@ -7,3 +7,7 @@ them side by side and having to line up the code to compare them. Personally, I
 like BeyondCompare much better for comparing files, but I don't think that will
 work with commit versions on Git.
 
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You can roll back to a prior version if you have an error. You can also see the changes over time.
+
