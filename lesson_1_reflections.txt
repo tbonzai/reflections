@@ -11,3 +11,7 @@ How could having easy access to the entire history of a file make you a more eff
 
 You can roll back to a prior version if you have an error. You can also see the changes over time.
 
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, versus having versions automatically saved, like Google docs does?
+
+You may forget to commit on a regular basis and once you realize you have a problem with the code, the rollback will wipe out a large amount of work.
+
