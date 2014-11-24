@@ -10,3 +10,7 @@ files I have chosen to queue for a commit. It is different from the repository i
 only contains files I have changed but not yet committed. The value is that it allows me
 to bundle changes together, as I see fit, to make a commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+By only placing in staging the files associated with that one logical change and using git diff to verify that.
+
