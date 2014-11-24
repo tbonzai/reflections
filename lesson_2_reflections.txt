@@ -14,3 +14,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 By only placing in staging the files associated with that one logical change and using git diff to verify that.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches might be helpful when making a major change to the code.
+They would assist because you could go back to that branch and see how things were modified.
+
