@@ -23,3 +23,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 There would be a lot of trading files using various servers or other media.
 GitHub/Git would be easier. Trading files would be more difficult.
 
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+When you are making major changes or when collaborating with others.
+Making the changes in a separate branch prevents you from contaminating the master so that
+you can continue to pull changes made by other users to your remote master and merge them into
+your branch as you work, thus keeping your branch relatively in sync with the larger project.
+Making the changes to the master is much simpler.
