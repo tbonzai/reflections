@@ -1,4 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-When you initialize a repository, a repository is created in the current directory. You must initialize so that you can begin tracking files in that folder.
-
+When you initialize a repository, a repository is created in the current directory.
+You must initialize so that you can begin tracking files in that folder.
