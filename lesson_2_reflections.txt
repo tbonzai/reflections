@@ -19,3 +19,7 @@ What are some situations when branches would be helpful in keeping your history 
 Branches might be helpful when making a major change to the code.
 They would assist because you could go back to that branch and see how things were modified.
 
+How do the diagrams help you visualize the branch structure?
+
+To see where each commit ties into the tree and which commits can be traced back to which other commits.
+
