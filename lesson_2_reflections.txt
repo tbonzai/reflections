@@ -27,3 +27,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 We join the current commit files from the two branches into a set of files. To show that the two branches are now one.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It resolves the easy combinations of two commits, although it can make an error if it works as described.
+It is unsafe, in my opinion, to assume that because person A removed line X, that person B didn't need
+that line for the code they added at line Y.
