@@ -1,6 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository, a repository is created in the current directory.
+Hidden files and folders are created which will allow git to store the current version.
+None of your project files are automatically added.
 You must initialize so that you can begin tracking files in that folder.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
