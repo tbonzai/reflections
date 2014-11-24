@@ -18,3 +18,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It allows you to perform merges to the remote data while offline.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+There would be a lot of trading files using various servers or other media.
+GitHub/Git would be easier. Trading files would be more difficult.
+
