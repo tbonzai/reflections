@@ -2,3 +2,11 @@ What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository, a repository is created in the current directory.
 You must initialize so that you can begin tracking files in that folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different from the working directory in that it only contains the
+files I have chosen to queue for a commit. It is different from the repository in that is
+only contains files I have changed but not yet committed. The value is that it allows me
+to bundle changes together, as I see fit, to make a commit.
+
