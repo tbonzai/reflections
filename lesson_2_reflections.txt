@@ -23,3 +23,7 @@ How do the diagrams help you visualize the branch structure?
 
 To see where each commit ties into the tree and which commits can be traced back to which other commits.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We join the current commit files from the two branches into a set of files. To show that the two branches are now one.
+
